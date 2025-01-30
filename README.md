@@ -111,4 +111,4 @@ linear
 
 ## More resources
 
-Check out the [useful resources](Links.md) page for helpful links.
+Check out the [useful resources](Links.md) page for helpful links!
